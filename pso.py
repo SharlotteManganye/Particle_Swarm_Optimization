@@ -1,6 +1,6 @@
 """
 -- *********************************************
--- Author       :	Sharlotte Manganye  https://github.com/FawazQutami/Particle-Swarm-Optimization-PSO/blob/master/plotting.py
+-- Author       :	Sharlotte Manganye 
 -- Create date  :   05 January 2021
 -- Description  :   Cost Functions
 -- File Name    :   pso.py
